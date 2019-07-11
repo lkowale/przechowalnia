@@ -3,7 +3,7 @@ Sterowanie temperaturą w przechowalni warzyw oraz jej wizualizacja
 ##
 Celem działania jest użycie powietrza zewnętrznego do schłodzenia przechowywanych warzyw. 
 ###
-Poniżej widok przechowalni; pod okapem dachu poziome klapy poruszne elektrycznymi siłownikami liniowymi pełniące rolę wyrzutni ciepłego powietrza; na ścianie pionowy kanał rozpoczynjący się czerpnią zimnego powietrza zewnętrznego, wewnątrz kanału wentylator wyrzucający chłodne powietrze.
+Poniżej widok przechowalni; pod okapem dachu poziome klapy, poruszne elektrycznymi siłownikami liniowymi, pełniące rolę wyrzutni ciepłego powietrza; na ścianie pionowy kanał rozpoczynjący się czerpnią zimnego powietrza zewnętrznego, wewnątrz kanału wentylator wyrzucający chłodne powietrze.
 
 ![przechowalnia](./img/IMG_20190705_132048.jpg)
 ![wentylator](./img/IMG_20190705_132010_HHT.jpg)
