@@ -1,1 +1,2 @@
 # przechowalnia
+Celem działania jest użycie powietrza zewnętrznego do schłodzenia przechowywanych warzyw. Układ sterujący okresowo przyjmuje wiadomości od bezprzewodowych czujników zawierające zmierzoną temperaturę oraz napięcie baterii zasilających. Zakładając, że  wiadomości są wysyłane co 10 minut, baterie pozwalają na 2 lata pracy czujnika. Układ sterujący na podstawie danych steruje stanem przepustnic wentylacyjnych oraz wentylatorów, a także przesyła zebrane wartości poprzez formularz php do bazy sql. Wizualizacja  możliwa poprzez google charts lub serwis Grafana.
