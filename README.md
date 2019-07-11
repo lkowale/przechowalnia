@@ -8,7 +8,7 @@ Poniżej widok przechowalni; pod okapem dachu poziome klapy, poruszne elektryczn
 ![przechowalnia](./img/IMG_20190705_132048.jpg)
 ![wentylator](./img/IMG_20190705_132010_HHT.jpg)
 
-Układ sterujący okresowo przyjmuje wiadomości od bezprzewodowych czujników zawierające zmierzoną temperaturę oraz napięcie baterii zasilających. Zakładając, że  wiadomości są wysyłane co 10 minut, baterie pozwalają na 2 lata pracy czujnika. Poniżej układ czujnika z sondą temperatury.
+Układ sterujący od bezprzewodowych czujników okresowo przyjmuje wiadomości zawierające zmierzoną temperaturę oraz napięcie baterii zasilających. Zakładając, że  wiadomości są wysyłane co 10 minut, baterie pozwalają na 2 lata pracy czujnika. Poniżej nadajnik w obudowie oraz sonda temperatury.
 
 ![czujnik](./img/IMG_20190705_132203.jpg)
 
