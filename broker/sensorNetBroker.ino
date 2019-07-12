@@ -1,25 +1,10 @@
 #include <Wire.h>
 #include <SPI.h>
 #include "RF24.h"
-//#include "C:\Users\pandejo\Documents\Arduino\! przechowalnia\przechowalnia2A_6.08.2016\storeStruct.h"
 
 #define DEBUG
 #define LICZBA_CZUJNIKOW 4
-//void setup() {
-//  Wire.begin(); // join i2c bus (address optional for master)
-//}
-//
-//byte x = 0;
-//
-//void loop() {
-//  Wire.beginTransmission(8); // transmit to device #8
-//  Wire.write("x is ");        // sends five bytes
-//  Wire.write(x);              // sends one byte
-//  Wire.endTransmission();    // stop transmitting
-//
-//  x++;
-//  delay(500);
-//}
+
 
 
 struct RF_packet {
@@ -66,17 +51,7 @@ void loop() {
       Serial.print(data.packets_send);       
       Serial.print(F(" vol: "));
       Serial.println(data.vol); 
-//  
-//       writeUpData();
-//      
-//      Serial.print(F(" WRITTENUP: "));      
-//      Serial.print((int)data1.id);
-//      Serial.print(F(" temp: "));
-//      Serial.print(data1.temp);  
-//      Serial.print(F(" packets_send: "));
-//      Serial.print(data1.packets_send);       
-//      Serial.print(F(" vol: "));
-//      Serial.println(data1.vol); 
+
   }
 
 }
